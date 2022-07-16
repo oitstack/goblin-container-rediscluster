@@ -6,7 +6,7 @@
 
     <groupId>io.github.oitstack</groupId>
     <artifactId>goblin-container-rediscluster</artifactId>
-    <version>1.0.2-SNAPSHOT</version>
+    <version>0.0.2-SNAPSHOT</version>
 
     <description>
         Goblin is a lightweight testing framework.
